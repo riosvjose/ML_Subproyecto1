@@ -12,8 +12,10 @@ Versión de Python: Se requiere Python 3.10 o una versión superior. Puede verif
 
 python --version
 
-Conexión a Internet
-Conexión a Internet: Es imprescindible contar con acceso a Internet durante la ejecución, ya que el notebook gestiona automáticamente la descarga de librerías especializadas (como pandas, scikit-learn o plotly) y, en su caso, del dataset desde repositorios públicos.
+
+Conexión a Internet: 
+Es imprescindible contar con acceso a Internet durante la ejecución, ya que el notebook gestiona automáticamente la descarga de librerías especializadas (como pandas, scikit-learn o plotly) y, en su caso, del dataset desde repositorios públicos.
+Además, se realiza la descarga del dataset desde Google drive, por ello es fundamental la conexión a internet.
 
 #Entorno de Ejecución Recomendado
 
